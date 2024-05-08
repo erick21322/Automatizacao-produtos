@@ -6,12 +6,12 @@ pyautogui.press("win")
 pyautogui.write("chrome")
 pyautogui.press("enter")
 
-time.sleep(1)
+#time.sleep(1)
 
-pyautogui.click(x=770, y=434)
+#pyautogui.click(x=770, y=434)
 
 time.sleep(3)
-pyautogui.click(x=295, y=19)
+#pyautogui.click(x=295, y=19)
 pyautogui.write("https://dlp.hashtagtreinamentos.com/python/intensivao/login")
 pyautogui.press("enter")
 
